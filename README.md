@@ -30,9 +30,14 @@ Craft tools, survive your first night build a house and much more .
 
 ## How to Download and Install
 
-1. Download the APK file from the [File]() section.
+1. Download the APK file from the [File](https://github.com/Kashumy/Primoria-Ferox-Download/releases/tag/game) section.
 2. Enable "Install from unknown sources" on your Android device.
 3. Install the APK and enjoy the game!
+<p align="center">
+  <a href="https://github.com/Kashumy/Primoria-Ferox-Download/releases/tag/game">
+    <img src="https://img.shields.io/badge/Download-Game-aqua?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
