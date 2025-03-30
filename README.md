@@ -30,7 +30,7 @@ I hope you enjoy it! If you have any ideas for what I could add to the game, fee
 
 ## 🔄 Updates
 
-- **Latest version:** `primoriaferox6`build v 1.5.7.9 (1.5.8 pre)
+- **Latest version:** `primoriaferox9`build v 1.5.8 pre5 b fixed (1.5.8 pre)
  but i found some bugs with application and i changed it to `primoriaferox7` build v 1.5.7.9 (1.5.8 pre2): bugs: eeperm cannot save file on some androids error, raining on 2 house floor, weird graphics glitches 
 
 - **Primoria-Ferox / Repo:** Older version of the current game.  
